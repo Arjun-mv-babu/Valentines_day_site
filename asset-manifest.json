@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Valentines_day_site/static/css/main.9b03b113.css",
+    "main.js": "/Valentines_day_site/static/js/main.880908dc.js",
+    "static/js/488.44d6a0fc.chunk.js": "/Valentines_day_site/static/js/488.44d6a0fc.chunk.js",
+    "static/media/Three.jpg": "/Valentines_day_site/static/media/Three.0beddbfd3337f3b1f055.jpg",
+    "static/media/Six.webp": "/Valentines_day_site/static/media/Six.5bc6961a35501b8b87a1.webp",
+    "static/media/Njan.jpg": "/Valentines_day_site/static/media/Njan.dee49ce043d5d8628d62.jpg",
+    "static/media/Ki.png": "/Valentines_day_site/static/media/Ki.4d200320e11b37beefd6.png",
+    "static/media/Four.webp": "/Valentines_day_site/static/media/Four.a7b7188f4af6978d4f86.webp",
+    "static/media/Five.jpg": "/Valentines_day_site/static/media/Five.325bb75fcfa46919eb08.jpg",
+    "static/media/Seven.webp": "/Valentines_day_site/static/media/Seven.461c427de2cb849d1fd6.webp",
+    "static/media/Eight.jpg": "/Valentines_day_site/static/media/Eight.731ed7a6ae30ba00554b.jpg",
+    "static/media/One.webp": "/Valentines_day_site/static/media/One.d1ec41c158c46101f363.webp",
+    "static/media/Two.jpg": "/Valentines_day_site/static/media/Two.c6989f197e97836380f6.jpg",
+    "static/media/logo.svg": "/Valentines_day_site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Valentines_day_site/index.html",
+    "main.9b03b113.css.map": "/Valentines_day_site/static/css/main.9b03b113.css.map",
+    "main.880908dc.js.map": "/Valentines_day_site/static/js/main.880908dc.js.map",
+    "488.44d6a0fc.chunk.js.map": "/Valentines_day_site/static/js/488.44d6a0fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b03b113.css",
+    "static/js/main.880908dc.js"
+  ]
+}
